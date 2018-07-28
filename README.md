@@ -39,7 +39,7 @@
 
 *  闪电公积金: 【技术leader , 承担整体APP架构设计, 业务迭 代开发】
   
-1. React Native架构搭建 react.js + redux + immutable.js [demo项目]((https://github.com/jeremyzj/rnstarter))   
+1. React Native架构搭建 react.js + redux + immutable.js [demo项目](https://jeremyzj.github.io/rnstarter/) 
 2. 业务沟通，工作分配
 3. 版本迭代开发 10个⼩小版本，3个⼤大版本
 
