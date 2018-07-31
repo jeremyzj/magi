@@ -25,6 +25,7 @@
 * 登录SDK（Rxswift + MVVM）
 * 分享SDK
 * 网络库sdk (afnetworking)
+* 性能监控SDK (主要检查内存泄漏，fps，以及卡顿)
 * 热更新(nodejs + express + 安卓 + iOS + RN + docker部署)
 1. 热更新cli, 主要实现用户注册，登录，app创建，查看app情况，打包上传RN 包
 2. 热更新服务node.js, 主要实现用户管理，app管理，delopmentKey的问题，RN包管理，上传，下载，已经统计
