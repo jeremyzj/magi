@@ -5,7 +5,6 @@
 * 期望职位: iOS
 * 教育: 江西师范大学/2011年毕业/本科
 * 工作年限: 7+年
-* 期望薪资： 40K~50K
 * 技术栈结构: 
   1. iOS : Object-C, Swift
   2. react-native
@@ -13,9 +12,14 @@
 
 ## 工作经历: 
 
-### 杭州潘帕斯 (2017.10 ~ 至今)/ 职位：平台技术开发
+### 有数派 (2017.10 ~ 至今)/ 职位：平台技术开发
 
 相关项目：
+* 有数派APP
+1. react-native + redux + reactnavigation + immutablejs + applo搭建APP整体框架
+2. code-push热部署搭建
+3. 基于热更新的git-flow规范
+4. 迭代开发
 * 牵牛APP模块化
 1. pps_router SDK: 主要解决跨平台模块跳转问题，以及页面间的数据传输&回调；
 2. pod私有库搭建：服务于iOS native SDK；
@@ -28,8 +32,7 @@
 * 性能监控SDK (主要检查内存泄漏，fps，以及卡顿)
 * 热更新(nodejs + express + 安卓 + iOS + RN + docker部署)
 1. 热更新cli, 主要实现用户注册，登录，app创建，查看app情况，打包上传RN 包
-2. 热更新服务node.js, 主要实现用户管理，app管理，delopmentKey的问题，RN包管理，上传，下载，已经统计
-3. 客户端iOS/安卓/RN, 以 RN packages形式提供，SDK注册，下载RN包，替换
+2. 客户端iOS/安卓/RN, 以 RN packages形式提供，SDK注册，下载RN包，替换
 * pps_gitbook 服务搭建
 
 ### 杭州挖财(2015.6 ~ 2017.10) / 职位： iOS技术开发
